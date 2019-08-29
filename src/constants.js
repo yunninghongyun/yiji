@@ -1,3 +1,3 @@
-const PUBLICURL = '/vue-shequ'
+const PUBLICURL = '/yiji'
 const A = 10
 export { PUBLICURL, A }
